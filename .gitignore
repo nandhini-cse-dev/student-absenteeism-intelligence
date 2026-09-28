@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+# Virtual environment
+venv/
+.venv
+# Original/raw dataset
+STUDENT ABSENTEES DETAIL.xlsx
+# Streamlit secrets
+.streamlit/secrets.toml
